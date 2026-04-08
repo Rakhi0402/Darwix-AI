@@ -25,6 +25,7 @@ Google Text-to-Speech
 
 Emotion detection model used:
 HuggingFace emotion classification model
+
 j-hartmann/emotion-english-distilroberta-base
 
 ---
